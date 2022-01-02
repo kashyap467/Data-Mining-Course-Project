@@ -1,0 +1,15 @@
+README
+
+Steps to execute code :-
+    - Keep InsulinData.csv, CGMData.csv files in the same directory of main.py file
+    - Run main.py python file. Command: python main.py
+    - Results.csv file created as output to the same directory
+
+NOTE :- 
+    Configuration :-
+        - Python 2.7.16
+        - Pandas library
+
+    Dataset :-
+        - Two datasets given as inputs - InsulinData.csv, CGMData.csv
+        - The input files should be located in the same directory as main.py
